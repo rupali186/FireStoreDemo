@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838654525762",
+    "firebase_url": "https://fir-demo-61a60.firebaseio.com",
+    "project_id": "fir-demo-61a60",
+    "storage_bucket": "fir-demo-61a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838654525762:android:a7648e36ab25ee313708db",
+        "android_client_info": {
+          "package_name": "com.android.rupali.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838654525762-e00erjjd1d7ft3meitp02512prtpmn6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAM0XLi0IyQzgbLgty1AfqDG9NE8yUIT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838654525762-e00erjjd1d7ft3meitp02512prtpmn6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
